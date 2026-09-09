@@ -1,0 +1,25 @@
+{
+    "settings": {
+        "1141240337076076554": {
+            "levelup_channel_id": "1385506471692730451",
+            "xp_min": 1,
+            "xp_max": 25,
+            "cooldown": 1,
+            "guild_name": "Club Draco Lair"
+        }
+    },
+    "1141240337076076554": {
+        "765094342279954509": {
+            "xp": 95,
+            "level": 3,
+            "username": "The Music Bot 420",
+            "guild_name": "Club Draco Lair"
+        },
+        "287282266261159937": {
+            "xp": 151,
+            "level": 3,
+            "username": "Purekush",
+            "guild_name": "Club Draco Lair"
+        }
+    }
+}

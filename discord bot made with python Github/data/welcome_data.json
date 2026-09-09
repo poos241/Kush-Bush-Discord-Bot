@@ -1,0 +1,11 @@
+{
+    "1141240337076076554": {
+        "guild_name": "Club Draco Lair",
+        "welcome_channel_id": "1141240337554219010",
+        "welcome_image_url": "https://cdn.discordapp.com/attachments/1298617179427700806/1298772216657477732/image.png?ex=687f6522&is=687e13a2&hm=25748735486294bdc4e40303cefce91f771cd6c37e4a00221925f4aa1eca43c1&",
+        "welcome_embed_title": "this is a test to see if this works",
+        "welcome_message": "hello and welcome to the {server} have fun and enjoy your stay around here ",
+        "auto_role_id": "1375175806556569620",
+        "auto_role_name": "test"
+    }
+}

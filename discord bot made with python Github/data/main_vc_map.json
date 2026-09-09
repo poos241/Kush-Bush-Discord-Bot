@@ -1,0 +1,16 @@
+{
+    "1141240337076076554": {
+        "guild_name": "Club Draco Lair",
+        "main_vc_id": "1382517040304230530",
+        "main_category_id": "1380178007360278528",
+        "message_channel": "1391228788599296131",
+        "dm_users": true
+    },
+    "1278920346950438922": {
+        "guild_name": "Azrael's Crypt",
+        "main_vc_id": "1526445553670422589",
+        "main_category_id": "1526445228754604062",
+        "message_channel": "1525712093263696014",
+        "dm_users": false
+    }
+}

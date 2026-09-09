@@ -1,0 +1,29 @@
+{
+    "config": {
+        "1141240337076076554": {
+            "ticket_category": 1387031607159816323,
+            "log_channel": 1387031798340649103,
+            "ticket_limit": 3,
+            "ticket_panel": {
+                "message": "After completing the ticket please make sure to knowledge the following. \u25e6 After creating ticket please have information ready that day for completion. \u25e6 Please make sure to complete in the first 24 hours of making ticket or it will be cancelled and have to be done all over again \u25e6 If you have any problems making your ticket or have any issues please contact staff to assist your ticket: By clicking the button, a ticket will be opened for you.",
+                "image_url": "https://cdn.discordapp.com/attachments/1298617179427700806/1298617194527326291/1bc3ff038db12183007ee5138f028d4d6cda7c288af5d339cbee7fcebcf0c026_Original.png?ex=6873a002&is=68724e82&hm=b76d04b006ccb3fb14e4221751bdd9a667665e2c4e0fa4502124ddd826eb3156&",
+                "buttons": [
+                    {
+                        "label": "support team",
+                        "color": "red"
+                    },
+                    {
+                        "label": "staff team help",
+                        "color": "green"
+                    },
+                    {
+                        "label": "other help",
+                        "color": "blurple"
+                    }
+                ],
+                "dm_on_open": false,
+                "ticket_message": "hello a admin will be with you soon to help"
+            }
+        }
+    }
+}
